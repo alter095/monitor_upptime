@@ -45,14 +45,14 @@ i18n:
   # overallUptime: "Overall uptime: $UPTIME"
   # overallUptimeTitle: Overall uptime
   averageResponseTime: "平均応答時間: $TIMEms"
-  # averageResponseTimeTitle: Average response
-  # sevelDayResponseTime: 7-day response time
+  averageResponseTimeTitle: 平均応答時間
+  sevelDayResponseTime: 7日間の 応答時間
   responseTimeMs: 応答時間 (ms)
   # up: Up
   # down: Down
   # degraded: Degraded
   # ms: ms
-  # loading: Loading
+  loading: 読み込み中
   # navGitHub: GitHub
   # footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   # rateLimitExceededTitle: Rate limit exceeded
