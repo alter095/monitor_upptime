@@ -1,7 +1,7 @@
 url: https://dp.massmist.net/
-status: up
-code: 200
-responseTime: 491
-lastUpdated: 2023-02-01T23:20:06.408Z
+status: down
+code: 502
+responseTime: 488
+lastUpdated: 2023-02-02T11:11:06.006Z
 startTime: Sun Jul 17 2022 06:28:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
