@@ -1,7 +1,7 @@
 url: https://massmist.net/
-status: up
-code: 200
-responseTime: 972
-lastUpdated: 2023-02-09T23:21:57.141Z
+status: down
+code: 502
+responseTime: 541
+lastUpdated: 2023-02-10T11:50:57.119Z
 startTime: Sun Jul 17 2022 06:28:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
