@@ -5,8 +5,8 @@ repo:  monitor_upptime
 sites:
   - name: massmist
     url: https://massmist.net/
-  - name: dp-massmist -Dolphin-
-    url: https://dp.massmist.net/
+  - name: massmis-don
+    url: https://mstdn.massmist.net/
 
 status-website:
   theme: night
