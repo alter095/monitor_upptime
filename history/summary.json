@@ -4,9 +4,9 @@
     "url": "https://massmist.net/",
     "icon": "https://icons.duckduckgo.com/ip3/massmist.net.ico",
     "slug": "massmist",
-    "status": "up",
-    "uptime": "92.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.42%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.36%",
@@ -16,6 +16,7 @@
     "timeMonth": 590,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2023-09-06": 0,
       "2023-07-22": 386,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -63,9 +64,9 @@
     "url": "https://mstdn.massmist.net/",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.massmist.net.ico",
     "slug": "massmis-don",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +75,8 @@
     "timeWeek": 713,
     "timeMonth": 656,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-06": 0
+    }
   }
 ]
