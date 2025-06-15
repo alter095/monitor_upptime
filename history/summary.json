@@ -37,7 +37,7 @@
     "url": "https://mstdn.massmist.net/",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.massmist.net.ico",
     "slug": "massmis-don",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.62%",
@@ -49,6 +49,7 @@
     "timeMonth": 919,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2025-06-15": 0,
       "2025-06-13": 542,
       "2025-06-03": 18,
       "2025-05-29": 93,
