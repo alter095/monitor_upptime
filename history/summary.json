@@ -6,17 +6,16 @@
     "slug": "massmist",
     "status": "up",
     "uptime": "94.32%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "92.86%",
     "time": 951,
-    "timeDay": 879,
-    "timeWeek": 961,
-    "timeMonth": 900,
+    "timeDay": 943,
+    "timeWeek": 935,
+    "timeMonth": 898,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2025-12-19": 11,
       "2025-12-02": 32,
       "2025-11-18": 1327,
       "2025-11-17": 1440,
@@ -58,8 +57,7 @@
       "2025-01-31": 51,
       "2025-01-30": 25,
       "2025-01-15": 159,
-      "2025-01-02": 132,
-      "2024-12-20": 343
+      "2025-01-02": 132
     }
   },
   {
@@ -69,17 +67,16 @@
     "slug": "massmis-don",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.24%",
-    "time": 905,
-    "timeDay": 951,
-    "timeWeek": 1021,
-    "timeMonth": 954,
-    "timeYear": 927,
+    "time": 906,
+    "timeDay": 1046,
+    "timeWeek": 1020,
+    "timeMonth": 961,
+    "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-12-19": 11,
       "2025-12-02": 32,
       "2025-11-17": 47,
       "2025-09-30": 224,
@@ -101,8 +98,7 @@
       "2025-01-31": 51,
       "2025-01-30": 25,
       "2025-01-15": 157,
-      "2025-01-02": 131,
-      "2024-12-20": 343
+      "2025-01-02": 131
     }
   }
 ]
