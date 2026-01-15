@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/massmist.net.ico",
     "slug": "massmist",
     "status": "up",
-    "uptime": "94.43%",
+    "uptime": "94.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "92.93%",
-    "time": 959,
-    "timeDay": 965,
-    "timeWeek": 920,
-    "timeMonth": 883,
+    "time": 960,
+    "timeDay": 1026,
+    "timeWeek": 932,
+    "timeMonth": 885,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2025-12-29": 89,
@@ -56,8 +56,7 @@
       "2025-03-13": 193,
       "2025-02-07": 108,
       "2025-01-31": 51,
-      "2025-01-30": 25,
-      "2025-01-15": 159
+      "2025-01-30": 25
     }
   },
   {
@@ -71,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.32%",
-    "time": 918,
-    "timeDay": 1043,
-    "timeWeek": 1027,
-    "timeMonth": 951,
-    "timeYear": 931,
+    "time": 919,
+    "timeDay": 1112,
+    "timeWeek": 1038,
+    "timeMonth": 949,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2025-12-29": 89,
       "2025-12-02": 32,
@@ -97,8 +96,7 @@
       "2025-03-13": 193,
       "2025-02-07": 107,
       "2025-01-31": 51,
-      "2025-01-30": 25,
-      "2025-01-15": 157
+      "2025-01-30": 25
     }
   }
 ]
