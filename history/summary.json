@@ -4,17 +4,17 @@
     "url": "https://massmist.net/",
     "icon": "https://icons.duckduckgo.com/ip3/massmist.net.ico",
     "slug": "massmist",
-    "status": "down",
+    "status": "up",
     "uptime": "95.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "93.08%",
     "time": 916,
-    "timeDay": 512,
-    "timeWeek": 672,
-    "timeMonth": 665,
-    "timeYear": 864,
+    "timeDay": 559,
+    "timeWeek": 664,
+    "timeMonth": 663,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-07-17": 126,
       "2025-08-22": 136,
@@ -54,7 +54,7 @@
       "2026-02-06": 23,
       "2026-04-17": 26,
       "2026-04-26": 20,
-      "2026-06-26": 0
+      "2026-06-26": 25
     }
   },
   {
