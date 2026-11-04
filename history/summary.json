@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.39%",
-    "time": 803,
-    "timeDay": 612,
-    "timeWeek": 605,
-    "timeMonth": 621,
-    "timeYear": 769,
+    "uptimeYear": "95.46%",
+    "time": 802,
+    "timeDay": 471,
+    "timeWeek": 572,
+    "timeMonth": 614,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-11-18": 1327,
       "2025-11-17": 1440,
@@ -30,7 +30,6 @@
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
-      "2025-11-04": 1440,
       "2025-12-02": 32,
       "2025-12-29": 89,
       "2026-01-19": 29,
@@ -53,14 +52,14 @@
     "slug": "massmis-don",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 1051,
-    "timeDay": 15920,
-    "timeWeek": 5973,
-    "timeMonth": 2347,
+    "timeDay": 15850,
+    "timeWeek": 5921,
+    "timeMonth": 2341,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2025-11-17": 47,
@@ -74,8 +73,7 @@
       "2026-04-17": 26,
       "2026-04-26": 179,
       "2026-09-26": 505,
-      "2026-09-25": 355,
-      "2026-11-03": 4
+      "2026-09-25": 355
     }
   }
 ]
